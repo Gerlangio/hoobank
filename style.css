@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1, h3, h4 {
+h1, h2, h3, h4 {
     font-weight: 600;
 }
 
@@ -40,4 +40,9 @@ p {
 .btn-primary {
     background: linear-gradient(157.81deg, #DEF9FA -43.27%, #BEF3F5 -21.24%, #9DEDF0 12.19%, #7DE7EB 29.82%, #5CE1E6 51.94%, #33BBCF 90.29%);
     color: #00040F;
+}
+
+.bio {
+    display: flex;
+    align-items: center;
 }
